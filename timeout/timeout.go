@@ -1,7 +1,10 @@
 /*
  * Command timeout example #1.
  *
- * Based on http://stackoverflow.com/questions/11886531/terminating-a-process-started-with-os-exec-in-golang
+ * Based on :
+ * - http://stackoverflow.com/questions/11886531/terminating-a-process-started-with-os-exec-in-golang
+ * - https://gobyexample.com/timeouts
+ *
  */
 
 package main
